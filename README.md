@@ -12,6 +12,6 @@ Python Version : 3.*
 * This Method can remove either nested or non-nested elements from a Json input file
 * In order to Test the method, execute json_extractor/json_extractor.py
 
-4.Log To CSV converter
+3. Log To CSV converter
 * This Method parses log files into CSV format
 * TIn order to Test the method, execute log_to_csv/log_csv.py
