@@ -1,0 +1,13 @@
+2020-06-07 15:28:17 INFO  FailedRequestFilter:24 - GET http://dummy.restapiexample.com/api/v1/employees
+ Request Body =>null
+ Response Status => 200 HTTP/1.1 200 OK 
+ Response Body => {
+    "status": "success",
+    "data": [
+        {
+		"Status": "400"
+		"Message": "success"
+		"Error": "None"
+		"Time": "2020-06-07 15:28:17"
+        }]
+      }
